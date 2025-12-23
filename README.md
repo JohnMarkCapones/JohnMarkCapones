@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Cap
 
 🚀 Information Technology Student | Full-Stack Developer  
-🎓 Capstone Project Lead | Modular Monolith Advocate  
+🎓 Capstone Project Management Lead | Modular Monolith & Domain Driven Architecture  
 🧠 Backend-First • Scalable • Production-Oriented
 
 ---
