@@ -76,13 +76,4 @@ My work emphasizes **backend authority, clean architecture, and real-world opera
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
-
-## 📊 GitHub Performance
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JohnMarkCapones&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=JohnMarkCapones&theme=dark&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMarkCapones&layout=compact&theme=dark&hide_border=true)
-
----
-
 > *Build systems that scale — not demos that break.*
