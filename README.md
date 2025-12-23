@@ -75,5 +75,15 @@ My work emphasizes **backend authority, clean architecture, and real-world opera
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+### 📋 Project Management & Collaboration
+
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Practices & Workflow**
+- Agile / Scrum-based development, Kanban Smart Workflow 
+- Sprint planning, backlog grooming, and task prioritization
+- Issue tracking and release coordination
+- Documentation-driven collaboration
 ---
 > *Build systems that scale — not demos that break.*
